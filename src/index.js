@@ -5,8 +5,7 @@ import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import {Switch , BrowserRouter ,Route} from 'react-router-dom'
 import Test from './component/test'
-import {routerRedux} from 'react-router-redux'
-//const { ConnectedRouter } = routerRedux
+
 
 ReactDOM.render(
 
