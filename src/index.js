@@ -10,13 +10,13 @@ import {routerRedux} from 'react-router-redux'
 
 ReactDOM.render(
 
-    <Router>
+    <BrowserRouter>
     <App>
         <Switch>
             <Route path="/test" component={Test}/>
         </Switch>
     </App>
-    </Router>
+    </BrowserRouter>
 
 
 , document.getElementById('root'));
