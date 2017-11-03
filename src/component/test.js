@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Layout, Menu, Breadcrumb, Icon } from 'antd';
+import './test.css'
 const { SubMenu } = Menu;
 const { Header, Content, Sider } = Layout;
 class Test extends Component {
